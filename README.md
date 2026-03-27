@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Edward Salazar 👋
 
-<!--
-**F8TGT/F8TGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 About Me
 
-Here are some ideas to get you started:
+- 🎓 Major: Computer Science
+- 📍 Location: Guatemala City - Guatemala
+- 💼 Current Job/Position: Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Technologies
+
+- **Programming Languages**: JavaScript, PHP, Kotlin, Python
+- **Frontend Development**: HTML, CSS, React.js, Angular, Vue.js, Tailwind CSS, Bootstrap
+- **Backend Development**: Node.js, Express.js, Laravel
+- **Mobile Development**: Android (Jetpack Compose, MVVM, Kotlin), Flutter
+- **Databases**: MySQL, MongoDB
+- **Tools & Platforms**: Jira Software, GitHub, Microsoft 365 Suite, G-Suite, Evinced Web and Mobile Analyzer, Axe Pro Testing Tool, TPGi Color Contrast Analyser, Postman, Trello, UiPath, Linux Terminal
+- **Methodologies**: Scrum, Kanban
+- **Languages**: Spanish (native), English (advance)
+
+## 📲 Get in Touch
+
+- 📧 [Email](mailto:easrtrader@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/edward-salazar-05a9a266/)
