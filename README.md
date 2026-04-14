@@ -8,10 +8,10 @@
 
 ## 💻 Skills & Technologies
 
-- **Programming Languages**: JavaScript, PHP, Kotlin, Python
+- **Programming Languages**: JavaScript, PHP, Kotlin, Python, C#
 - **Frontend Development**: HTML, CSS, React.js, Angular, Vue.js, Tailwind CSS, Bootstrap
 - **Backend Development**: Node.js, Express.js, Laravel
-- **Mobile Development**: Android (Jetpack Compose, MVVM, Kotlin), Flutter
+- **Mobile Development**: Android (Jetpack Compose, MVVM, Kotlin)
 - **Databases**: MySQL, MongoDB
 - **Tools & Platforms**: Jira Software, GitHub, Microsoft 365 Suite, G-Suite, Evinced Web and Mobile Analyzer, Axe Pro Testing Tool, TPGi Color Contrast Analyser, Postman, Trello, UiPath, Linux Terminal
 - **Methodologies**: Scrum, Kanban
